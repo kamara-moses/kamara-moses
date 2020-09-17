@@ -10,3 +10,5 @@ Some technologies I enjoy working with include:
 ✍🏾
 - Tinkering with interactions on <a href='https://codepen.io/kamara-moses'> Codepen</a> 🏓
 - Sharing updates on <a href='https://www.linkedin.com/in/moses-kamara/'>LinkedIn</a> 💼
+
+![moses's github stats](https://github-readme-stats.vercel.app/api?username=kamara-moses&show_icons=true&hide=[%22issues%22])
