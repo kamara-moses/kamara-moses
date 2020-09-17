@@ -1,6 +1,6 @@
 # Hi, I'm Moses 👋🏾 👨🏿‍💻
 
-I'm a web developer with a passion about making tech more accessible to disadventage communities, creating application to elevate and empower communities. 
+I'm a web developer with a passion for making tech more accessible to disadventage communities, creating application to elevate and empower communities. 
 
 Some technologies I enjoy working with include:
 <br><br>
